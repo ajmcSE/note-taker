@@ -3,11 +3,7 @@
 This Note Taker allows users to create and save notes. The application uses Express.js for the server-side code and interacts with a JSON file (`db.json`) to store and retrieve notes.
 
 ## How to use
-Start the application by running the following command:
-
-Copy code
-node server.js
-Open your web browser and visit http://localhost:3001 to access the Note Taker application.
+Open your web browser and visit http://localhost:3001 to access the Note Taker application after installing dependancies using npm instal in command line.
 Click on the "Get Started" button to navigate to the Notes page.
 
 ## Notes Page
